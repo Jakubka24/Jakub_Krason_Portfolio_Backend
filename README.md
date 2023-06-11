@@ -9,28 +9,21 @@ Jakub_Krason_Portfolio_Backend 💼
 * [Copyright](#copyright)
 
 ## General info 
-Firstly, I just want to mark, that it is my first independent application which I made within "MegaKurs". I tried to use all technologies that I learned durning 
-this course. 
-
-
-As music fan I decided to make something associated with it.
-In this application you're able to roll "your daily song". Before roll you can make a choice between the
-most popular music generes. You can also add your own song to database. That give you possibility to discover new awesome songs!
-<br/><br/> Also you are able to create your own "favourite" list.
-In future there will be few new things for registered users.
+My portfolio - that's it. 
 
 ## Demo movie 
-https://user-images.githubusercontent.com/123602747/229549512-53f5a322-9f22-484e-8832-7bb5deb3c9ff.mp4
+[Portfolio.webm](https://github.com/Jakubka24/Jakub_Krason_Portfolio_Backend/assets/123602747/501e160e-a27d-4583-b5d3-ee76b5b15287)
+
 
 ## Get started 
 1. Download backend and frontend to the same folder.
-2. Run your IDE with Node.js. Make sure that the name of backend folder is "MegaKurs_MusicMood_backend".
-3. Install required node modules (run npm start).
-4. Write in terminal "npm install -g ts-node.
-5. Download "data" folder from "https://files.fm/u/88amry98b" and switch with "data" folder from xampp\mysql.
-6. Run Apache and MySql (XAMPP).
+2. Run your IDE with Node.js.
+3. Install required node modules (npm install).
+4. Put backend and frontend(from other repository) in the same folder. 
+5. Open backend folder in terminal and write "node app.js"
+6. Open frontend folder in other terminal and write "npm start"
 7. Enter in your explorer "http://localhost:3000/".
-8. Enjoy the Music!
+8. Contact with me!
 
 ## Technologies used 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
